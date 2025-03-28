@@ -69,7 +69,7 @@ Want to contribute? Follow these steps:
 ## 📬 Contact
 For any queries, feel free to reach out:
 - GitHub: [@niteshkumar956](https://github.com/niteshkumar956)
-- Email: [Your Email Here]
+- Email: [niteshkumarr956@gmail.com]
 
 ---
 ### ⭐ Don't forget to **star** this repo if you found it useful! ⭐
